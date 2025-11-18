@@ -36,7 +36,7 @@ Advanced security features in domains include fine-grained password policies, al
 ## Professional Certification Pathways
 Understanding workgroup and domain architectures forms essential knowledge for network infrastructure professionals. These concepts appear prominently in both Windows Server administration and general networking certification paths.
 
-Master Windows Server hybrid administration including Active Directory Domain Services with our comprehensive training program such as the [Windows Server Hybrid Administrator certification course](https://www.eccentrix.ca/en/courses/microsoft/azure/microsoft-certified-windows-server-hybrid-administrator-associate-az800-801/)
+Master Windows Server hybrid administration including Active Directory Domain Services with our comprehensive training program such as the [Windows Server Hybrid Administrator certification course](https://www.eccentrix.ca/en/courses/microsoft/azure/microsoft-certified-windows-server-hybrid-administrator-associate-az800-801/).
 
 Network fundamentals including workgroup and domain concepts are also covered in foundational networking certifications sucj as the [CompTIA Network+](https://www.eccentrix.ca/en/courses/comptia/comptia-network-ct8734/).
 
