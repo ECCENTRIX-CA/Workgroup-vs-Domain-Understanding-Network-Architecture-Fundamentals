@@ -38,7 +38,7 @@ Understanding workgroup and domain architectures forms essential knowledge for n
 
 Master Windows Server hybrid administration including Active Directory Domain Services with our comprehensive training program such as the [Windows Server Hybrid Administrator certification course](https://www.eccentrix.ca/en/courses/microsoft/azure/microsoft-certified-windows-server-hybrid-administrator-associate-az800-801/).
 
-Network fundamentals including workgroup and domain concepts are also covered in foundational networking certifications sucj as the [CompTIA Network+](https://www.eccentrix.ca/en/courses/comptia/comptia-network-ct8734/).
+Network fundamentals including workgroup and domain concepts are also covered in foundational networking certifications such as the [CompTIA Network+](https://www.eccentrix.ca/en/courses/comptia/comptia-network-ct8734/).
 
 ## Scalability and Management
 Workgroup configurations work effectively for small networks with fewer than 10-15 computers. Beyond this threshold, administrative overhead becomes significant as user account management and resource sharing complexity increases exponentially.
